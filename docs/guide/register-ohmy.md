@@ -1,3 +1,4 @@
+。
 # 注册 OhMy
 
 打开 [https://ohmy.xin](https://ohmy.xin)，点击登录按钮。
